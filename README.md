@@ -45,23 +45,38 @@ todolist:方案未定。
 
 
 ## 等考上研究生了，把深度学习也学了
+```
 1:find something you are good at and that you love to do-with peopole you enjoy.
+
 2:write a mission statement -and live it. 
+
 3:Do great things in your role today-and prepare for tomorrow.
+
 4:Find a mentor.(And listen to them.)
+
 5:Expect the unexpected.Learn to embrace change and challenge.
+
 6:Listen,Learn,Lift,Link,Love
+```
+### Plan
+---
+4-5月初
 
-Plan
+     - 每天都要加班到9点哦，8点的时候可以去哪里锻炼下！
+     - 周六周末学习Verilog
 
-4-5月初， 
-     每天都要加班到9点哦，8点的时候可以去哪里锻炼下！
-     周六周末学习Verilog
 5月初
-     提离职，期间把租房（租房一定要租到附近吃的多的地方，安静的地方！），搬家，房间考研氛围都准备好了，考研信息，学习材料，学习计划做好，也要制定好脖子腰部身体维护锻炼计划吗，以及调整状态计划，订阅一些考研消息的官方媒体，和一些半导体技术的信息来激励自己(娱乐时间)。
+
+     - 提离职，期间把租房（租房一定要租到附近吃的多的地方，安静的地方！），搬家，房间考研氛围都准备好了，考研信息，学习材料，学习计划做好，也要制定好脖子腰部身体维护锻炼计划吗，以及调整状态计划，订阅一些考研消息的官方媒体，和一些半导体技术的信息来激励自己(娱乐时间)。
+
 6月
-     全身心投入数学
+
+     - 全身心投入数学
+
 7月
-     上半月应该也是全省心投入数学
+
+     - 上半月应该也是全省心投入数学
+
 7月下半月
-     待定
+
+     - 待定
